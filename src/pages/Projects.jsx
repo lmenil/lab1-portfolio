@@ -3,7 +3,7 @@ import React from 'react';
 import '../styles/Projects.css';
 import project1 from '../assets/SPA.jpg';
 import project2 from '../assets/form.jpg';
-import project3 from '../assets/orderxpress.jpg';
+import project3 from '../assets/Orderxpress.jpg';
 
 const Projects = () => {
   const projectData = [
