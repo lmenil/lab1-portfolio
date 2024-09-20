@@ -1,6 +1,7 @@
 // About.jsx
 import React from 'react';
 import '../styles/About.css';
+import jewel from "../src/assets/jewel.jpg"
 // import profile from '../assets/profile.jpg'; // Ensure you have a profile.jpg in assets
 
 const About = () => {
@@ -23,7 +24,7 @@ const About = () => {
             <a href="../src/assets/resume.pdf" class="btn">Download Resume</a>
         </div>
         <div className="image-section">
-            <img src="../src/assets/jewel.jpg" alt="Social Media Bestie"/>
+            <img src={jewel} alt="Social Media Bestie"/>
         </div>
     </div>
   );
