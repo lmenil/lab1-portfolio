@@ -2,6 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/Home.css';
+import enzo from '../src/assets/enzo.jpg';
 import Layout from '../components/Layout';
 
 
@@ -12,7 +13,7 @@ const Home = () => {
     <div className="header-container">
 
     
-      <img src="../assets/enzo.jpg" alt="Enzo Image" className="image-container"/>
+      <img src={enzo} alt="Enzo Image" className="image-container"/>
       
       <h1>Welcome to My Portfolio</h1>
     </div>
