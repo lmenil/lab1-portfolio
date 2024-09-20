@@ -11,7 +11,7 @@ const Home = () => {
     <div className="header-container">
 
     
-      <img src="../src/assets/enzo.jpg" alt="Enzo Image" className="image-container"/>
+      <img src="../assets/enzo.jpg" alt="Enzo Image" className="image-container"/>
       
       <h1>Welcome to My Portfolio</h1>
     </div>
