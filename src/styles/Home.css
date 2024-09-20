@@ -1,0 +1,41 @@
+/* Home.css */
+/* File: Home.css
+   Student Name: Your Name
+   Student ID: YourID
+   Date: YYYY-MM-DD
+*/
+
+.home {
+  
+    text-align:justify;
+    font-size:x-large;
+    padding: 50px 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #f0a500;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background-color: #cf8500;
+  }
+  .image-container{
+    display:flex;
+    max-width: 20%;
+    height:auto;
+    border-radius: 10px;
+  }
+  
+  .header-container{
+    display: flex;
+    align-items:center;
+    justify-content:left;
+    padding: 10px;
+    gap: 20px;
+  }
