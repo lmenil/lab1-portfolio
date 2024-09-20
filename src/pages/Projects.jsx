@@ -1,7 +1,7 @@
 // Projects.jsx
 import React from 'react';
 import '../styles/Projects.css';
-import project1 from '../assets/spa.jpg';
+import project1 from '../assets/SPA.jpg';
 import project2 from '../assets/form.jpg';
 import project3 from '../assets/orderxpress.jpg';
 
