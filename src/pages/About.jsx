@@ -1,7 +1,7 @@
 // About.jsx
 import React from 'react';
 import '../styles/About.css';
-import jewel from "../src/assets/jewel.jpg"
+import jewel from "../src/assets/JEWEL.jpg"
 // import profile from '../assets/profile.jpg'; // Ensure you have a profile.jpg in assets
 
 const About = () => {
