@@ -23,11 +23,11 @@ const Layout = () => {
       </div>
       <div className="navbar">
         <ul className="navbar-links">
-            <li><Link to="/">Home</Link></li>
-            <li><Link to="/about">About Me</Link></li>
-            <li><Link to="/projects">Projects</Link></li>
-            <li><Link to="/services">Services</Link></li>
-            <li><Link to="/contact">Contact Me</Link></li>           
+            <li><Link to="/vite-react">Home</Link></li>
+            <li><Link to="/vite-react/about">About Me</Link></li>
+            <li><Link to="/vite-react/projects">Projects</Link></li>
+            <li><Link to="/vitereact/services">Services</Link></li>
+            <li><Link to="/vite-react/contact">Contact Me</Link></li>           
         </ul>
       </div>
     </nav>
