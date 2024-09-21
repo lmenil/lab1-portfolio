@@ -1,8 +1,8 @@
 /* Projects.css */
 /* File: Projects.css
-   Student Name: Your Name
-   Student ID: YourID
-   Date: YYYY-MM-DD
+   Student Name: Lorenzo Jr Menil
+   Student ID: 301341544
+   Date: 2024-09-21
 */
 
 .projects {
@@ -19,6 +19,7 @@
   
   .project-card {
     background-color: #f9f9f9;
+    color: black;
     width: 300px;
     border-radius: 10px;
     overflow: hidden;

@@ -1,4 +1,9 @@
 // Services.jsx
+/* File: Services.jsx
+   Student Name: Lorenzo Jr Menil
+   Student ID: 301341544
+   Date: 2024-09-21
+*/
 import React from 'react';
 import '../styles/Services.css';
 import service1 from '../assets/webdev.jpg';

@@ -1,4 +1,9 @@
 // Contact.jsx
+/* File: Contact.jsx
+   Student Name: Lorenzo Jr Menil
+   Student ID: 301341544
+   Date: 2024-09-21
+*/
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import '../styles/Contact.css';
@@ -30,9 +35,9 @@ const Contact = () => {
     <div className="contact">
       <h2>Contact Me</h2>
       <div className="contact-info">
-        <p><strong>Email:</strong> your.email@example.com</p>
-        <p><strong>Phone:</strong> +1 (234) 567-8901</p>
-        <p><strong>Address:</strong> 1234 Street Name, City, Country</p>
+        <p><strong>Email:</strong> lorenzojr.menil@gmail.com</p>
+        <p><strong>Phone:</strong> +1 (437) 733-0837</p>
+        <p><strong>Address:</strong> 227 Ellington Drive, Scarborough, Ontario, Canada</p>
       </div>
       <form className="contact-form" onSubmit={handleSubmit}>
         <div className="form-group">

@@ -1,4 +1,9 @@
 // Home.jsx
+/* File: Home.jsx
+   Student Name: Lorenzo Jr Menil
+   Student ID: 301341544
+   Date: 2024-09-21
+*/
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/Home.css';
